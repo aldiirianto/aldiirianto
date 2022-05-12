@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi 👋  
+I'm Aldi. I build lots of programming demos on this account.
+
+Currently, I study at CIC University in Informatics Engineering.
+For more information about me , reach out : aldiirianto999@gmail.com
 
 <!--
 **aldiirianto/aldiirianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
